@@ -1,1 +1,10 @@
-Ini catatan. hehe
+Make sure Auto Import is on:
+
+For Windows, go to File > Settings > Editor > General > Auto Import
+For Mac, go to Android Studio > Preferences > Editor > General > Auto Import
+Check all of the following options:
+
+Show import popup
+Optimize imports on the fly
+Add unambiguous imports on the fly
+Insert imports on paste → All
